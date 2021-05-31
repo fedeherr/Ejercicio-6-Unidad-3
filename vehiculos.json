@@ -1,0 +1,57 @@
+{
+    "__class__": "Lista",
+    "vehiculos": [
+        {
+            "__class__": "vehiculoNuevo",
+            "__atributos__": {
+                "cantpuert": 4,
+                "color": "4",
+                "precio": 2240.0,
+                "marca": "MarcaVehiculoNuevo",
+                "version": "Full"
+            }
+        },
+        {
+            "__class__": "vehiculoNuevo",
+            "__atributos__": {
+                "cantpuert": 4,
+                "color": "3",
+                "precio": 1440.0,
+                "marca": "MarcaVehiculoNuevo",
+                "version": "Full"
+            }
+        },
+        {
+            "__class__": "vehiculoNuevo",
+            "__atributos__": {
+                "cantpuert": 4,
+                "color": "2",
+                "precio": 3440.0,
+                "marca": "MarcaVehiculoNuevo",
+                "version": "Full"
+            }
+        },
+        {
+            "__class__": "vehiculoNuevo",
+            "__atributos__": {
+                "cantpuert": 4,
+                "color": "1",
+                "precio": 2440.0,
+                "marca": "MarcaVehiculoNuevo",
+                "version": "Base"
+            }
+        },
+        {
+            "__class__": "vehiculoUsado",
+            "__atributos__": {
+                "cantpuert": 1,
+                "color": "1",
+                "precio": 1,
+                "marca": "1",
+                "patente": "xd",
+                "kilometraje": 1000,
+                "ano": 2000
+            }
+        }
+    ]
+}
